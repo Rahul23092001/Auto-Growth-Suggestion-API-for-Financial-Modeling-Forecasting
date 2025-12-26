@@ -1,0 +1,20 @@
+📌 Project Overview
+Traditional financial models rely on static assumptions and manual growth inputs.
+This project introduces an automated growth suggestion engine exposed through a FastAPI-based REST API, enabling consistent and data-driven financial forecasting.
+The system fetches real financial data using Yahoo Finance (yfinance) and generates suggested growth rates for:
+Revenue
+EBITDA
+Profit After Tax (PAT)
+
+🧠 Key Features
+
+✅ API-driven automated growth suggestions
+✅ Uses real financial data (Yahoo Finance)
+✅ CAGR + recent growth trend analysis
+✅ Sector-based growth caps for realism
+✅ Clean and explainable JSON output
+✅ Swagger UI for easy testing
+✅ Error handling and data cleaning logic
+🏗️ System Architecture (High Level)
+
+🏗️ System Architecture (High Lev
